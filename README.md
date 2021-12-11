@@ -1,8 +1,8 @@
 - Hi, I’m @doodymack
-- I’m currently learning Python
-- The readme file will summarize my activity during the project.
+I’m currently learning Python/Data Analytics
+The readme file will summarize my activity during the project.
  21 Mar: 
- I created a draft project plan for the next 5 weeksd.   I researched Fishers Iris dataset. 
+ I created a draft project plan for the next 5 weeks.   I researched Fishers Iris dataset. 
  I sourced thre data set and downloaded it to a VSC file in downloads and transferred it to a text file irisdata.txt in the project folder
 
 <!---
